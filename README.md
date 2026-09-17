@@ -77,13 +77,11 @@ Durante as interações com o NotebookLM, foram testadas diferentes abordagens d
 
 Use estes prompts no seu NotebookLM carregado para novas revisões:
 
-1. 🔍 *“Monte uma tabela comparativa com os métodos de aplicação de [Nome do Óleo] para uso emocional vs. uso físico.”*
-2. ⚠️ *“Verifique se o óleo de [Nome do Óleo] exige diluição em óleo carreador e se pode ser exposto ao sol após o uso.”*
+1. 🔍 *“Monte uma tabela comparativa com os métodos de aplicação de Hortelã-Pimenta para uso emocional vs. uso físico.”*
+2. ⚠️ *“Verifique se o óleo de Laranja exige diluição em óleo carreador e se pode ser exposto ao sol após o uso.”*
 3. 🧘 *“Sugira uma sinergia (mistura) de até 3 óleos essenciais para ajudar no foco e estudos, indicando a quantidade de gotas para difusor.”*
 
 ---
 
-## 🚀 Como Entregar na DIO
-1. Copie o link do seu repositório: `https://github.com/Usagiau/miniguia-estudos-notebooklm-aromaterapia`
-2. Vá até a página do Desafio na DIO e clique em **Entregar Desafio**.
-3. Cole o link e insira a descrição curta do projeto!
+## Link de acesso ao NotebookLM
+`https://github.com/Usagiau/miniguia-estudos-notebooklm-aromaterapia](https://notebook.google.com/notebook/2a32b172-8579-44e2-a176-1d351839243a`
