@@ -84,4 +84,4 @@ Use estes prompts no seu NotebookLM carregado para novas revisões:
 ---
 
 ## Link de acesso ao NotebookLM
-`https://github.com/Usagiau/miniguia-estudos-notebooklm-aromaterapia](https://notebook.google.com/notebook/2a32b172-8579-44e2-a176-1d351839243a`
+`https://notebook.google.com/notebook/2a32b172-8579-44e2-a176-1d351839243a`
